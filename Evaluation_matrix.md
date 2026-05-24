@@ -369,9 +369,3 @@ print("R²:   ", r2_score(y_reg_true, y_reg_pred))
 
 ---
 
-## 🔜 NEXT STEPS
-When you're comfortable with Tier 1, reply with:
-`"Proceed to Tier 2"`  
-I will deliver the same depth for **AUC-PR, MCC, Calibration/Brier, F1 (Macro/Weighted), Top-K Accuracy, IoU, MAPE, Adjusted R², Residual Analysis**, complete with derivations, code, and domain-specific benchmarks.
-
-Remember: Metrics don't lie, but they can mislead if chosen blindly. Always align them with the *cost of being wrong* in your specific domain. You're building the right foundation. Keep going. 📈✨
